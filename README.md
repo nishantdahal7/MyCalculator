@@ -1,6 +1,6 @@
 
 # My Calculator
-[Calculator](https://imgur.com/a/qxOqjtS "Calcy")
+[Calculator](https://imgur.com/a/qxOqjtS)
   
 ## Introduction 
   
